@@ -1,6 +1,6 @@
-# Pokédex App 🕹️
+# Aplicativo de 3 Apis 🕹️
 
-Una aplicación de Imagenes desarrollada con **Ionic Framework** y **Angular** que permite a los usuarios explorar información que se genera a partir del enlace a 3 API distintas
+Una aplicación de Imagenes desarrollada con **Ionic** y **Angular** que permite a los usuarios explorar información que se genera a partir del enlace a 3 API distintas
 
 ## Características ✨
 
@@ -25,3 +25,4 @@ Una aplicación de Imagenes desarrollada con **Ionic Framework** y **Angular** q
 ### Splash e Icono
 ![image](https://github.com/user-attachments/assets/d8295217-a272-4e3e-8e4e-56612c5fa2fc)
 ![image](https://github.com/user-attachments/assets/c99d2262-54fc-4e6b-be9f-0abe82fd991d)
+
