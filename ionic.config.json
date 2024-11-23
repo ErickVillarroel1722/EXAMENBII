@@ -1,0 +1,7 @@
+{
+  "name": "BookAndImageApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
